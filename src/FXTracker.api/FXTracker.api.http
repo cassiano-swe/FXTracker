@@ -1,0 +1,6 @@
+@FXTracker.api_HostAddress = http://localhost:5030
+
+GET {{FXTracker.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

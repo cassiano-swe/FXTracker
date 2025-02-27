@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXTracker.api", "FXTracker.api\FXTracker.api.csproj", "{DF8FDF00-9AE7-4339-A83C-18BCCCB7A133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXTracker.application", "FXTracker.application\FXTracker.application.csproj", "{DA9F2ABD-5645-4F23-A4E3-8270E1AE6AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXTracker.domain", "FXTracker.domain\FXTracker.domain.csproj", "{77AD7091-19EF-41A6-80F6-5CDDC3E01530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXTracker.infrastructure", "FXTracker.infrastructure\FXTracker.infrastructure.csproj", "{E9879B97-F6CC-498E-B819-5860FF3E739A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8FDF00-9AE7-4339-A83C-18BCCCB7A133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8FDF00-9AE7-4339-A83C-18BCCCB7A133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8FDF00-9AE7-4339-A83C-18BCCCB7A133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8FDF00-9AE7-4339-A83C-18BCCCB7A133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9F2ABD-5645-4F23-A4E3-8270E1AE6AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9F2ABD-5645-4F23-A4E3-8270E1AE6AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9F2ABD-5645-4F23-A4E3-8270E1AE6AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9F2ABD-5645-4F23-A4E3-8270E1AE6AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AD7091-19EF-41A6-80F6-5CDDC3E01530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AD7091-19EF-41A6-80F6-5CDDC3E01530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AD7091-19EF-41A6-80F6-5CDDC3E01530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AD7091-19EF-41A6-80F6-5CDDC3E01530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9879B97-F6CC-498E-B819-5860FF3E739A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9879B97-F6CC-498E-B819-5860FF3E739A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9879B97-F6CC-498E-B819-5860FF3E739A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9879B97-F6CC-498E-B819-5860FF3E739A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
