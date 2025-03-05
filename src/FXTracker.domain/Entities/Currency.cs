@@ -1,2 +1,2 @@
 namespace FXTracker.domain.Entities;
-public record Currency (Guid Id, double Timestamp, string Symbol, DateTime Date, Dictionary<string, double> Parity);
+public record Currency (Guid Id, double Timestamp, string BaseCurrency, DateTime Date, string TargetCurrency, double Quote);
